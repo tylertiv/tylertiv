@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [a strategic "Super" Tic-Tac-Toe game in Javascript](https://github.com/tylertiv/SuperTicTacToe)
 
-- 🌱 I’m currently learning **Web development, Python, Bootstrap**
+-    as well as [a MLB stats web scraper in Python](https://github.com/tylertiv/MLB-Stats)
 
-- as well as [a MLB stats web scraper in Python](https://github.com/tylertiv/MLB-Stats)
+- 🌱 I’m currently learning **Web development, Python, Bootstrap**
 
 - 👨‍💻 All of my projects are available at [tylertivadar.com](tylertivadar.com)
 
