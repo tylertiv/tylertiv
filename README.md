@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tyler Tivadar</h1>
 <h3 align="center">A passionate Computer Science and Engineering undergrad at Santa Clara University</h3>
 
-- 🔭 I’m currently working on [a strategic "Super" Tic-Tac-Toe game in Javascript](https://github.com/tylertiv/SuperTicTacToe)
+- 📌 I’m currently working on [a strategic "Super" Tic-Tac-Toe game in Javascript](https://github.com/tylertiv/SuperTicTacToe)
 
--    as well as [a MLB stats web scraper in Python](https://github.com/tylertiv/MLB-Stats)
+- ⚾️ as well as [a MLB stats web scraper in Python](https://github.com/tylertiv/MLB-Stats)
 
 - 🌱 I’m currently learning **Web development, Python, Bootstrap**
 
